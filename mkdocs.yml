@@ -1,0 +1,83 @@
+site_name: TACS文档
+site_url: https://docs.tacs.top
+copyright: Copyright &copy; 2016 - Now <a href="https://space.bilibili.com/1546229901"><b>Redapple_one</b></a>
+extra_css:
+  - stylesheets/font.css
+  - stylesheets/color.css
+extra:
+  social:
+    - icon: fontawesome/brands/bilibili
+      link: https://space.bilibili.com/1546229901
+      name: Redapple_one的B站账号
+    - icon: fontawesome/brands/github
+      link: https://github.com/TAC-Server
+      name: Github上的TAC-Server组织
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@Redapple_one
+      name: Redapple_one的YouTube账号
+plugins:
+  - search
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+nav:
+  - 首页: index.md
+theme:
+  name: material
+  logo: https://img.fastmirror.net/s/2025/08/02/688db8fccea64.png
+  favicon: https://img.fastmirror.net/s/2025/04/24/680a354f7ace6.png
+  icon:
+    previous: fontawesome/solid/angle-left
+    next: fontawesome/solid/angle-right
+    admonition:
+      note: fontawesome/solid/note-sticky
+      abstract: fontawesome/solid/book
+      info: fontawesome/solid/circle-info
+      tip: fontawesome/solid/bullhorn
+      success: fontawesome/solid/check
+      question: fontawesome/solid/circle-question
+      warning: fontawesome/solid/triangle-exclamation
+      failure: fontawesome/solid/bomb
+      danger: fontawesome/solid/skull
+      bug: fontawesome/solid/robot
+      example: fontawesome/solid/flask
+      quote: fontawesome/solid/quote-left
+  custom_dir: overrides
+  features:
+    - announce.dismiss
+    - navigation.footer
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.path
+    - navigation.indexes
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
+    - toc.follow
+  language: zh
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: 切换到浅色模式
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      toggle:
+        icon: material/brightness-7
+        name: 切换到深色模式
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      toggle:
+        icon: material/brightness-4
+        name: 切换到自动
