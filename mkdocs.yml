@@ -1,5 +1,7 @@
 site_name: TACS文档
 site_url: https://docs.tacs.top
+repo_url: https://github.com/TAC-Server/docs
+edit_uri: edit/main/docs/
 copyright: Copyright &copy; 2016 - Now <a href="https://space.bilibili.com/1546229901"><b>Redapple_one</b></a>
 extra_css:
   - stylesheets/font.css
@@ -31,6 +33,7 @@ theme:
   icon:
     previous: fontawesome/solid/angle-left
     next: fontawesome/solid/angle-right
+    repo: fontawesome/brands/github
     admonition:
       note: fontawesome/solid/note-sticky
       abstract: fontawesome/solid/book
@@ -47,6 +50,7 @@ theme:
   custom_dir: overrides
   features:
     - announce.dismiss
+    - content.action.edit
     - navigation.footer
     - navigation.instant
     - navigation.instant.prefetch
