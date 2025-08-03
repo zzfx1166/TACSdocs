@@ -1,7 +1,15 @@
-:root { 
-  --md-text-font: "MiSans VF", system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-  --md-code-font: "Fira Mono", monospace;
+:root {
+	--md-text-font: "Source Han Serif CN VF", system-ui, -apple-system, BlinkMacSystemFont,
+		"Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
+		sans-serif;
+	--md-code-font: "Fira Mono","MiSans VF", monospace;
 }
-h1, h2, h3, h4, h5, h6 {
-  font-family: "zihunbiantaoti";
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: "STDongGuanTi Bld";
+	font-weight: "700";
 }

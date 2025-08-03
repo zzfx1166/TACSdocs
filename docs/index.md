@@ -1,24 +1,66 @@
-# Welcome to MkDocs
+**您在众多服务器中选择了茶水晶服务器是我们的荣幸!**
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+**但在开始旅途之前, {==为了您更好的游玩体验, 请认真阅读我们的的文档==}**
 
-## Commands
+## 基本信息
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+### 服务器玩法
 
-## Project layout
+茶水晶服务器现有**内服**和**外服**两个互不相通的服务器,
+均在 Redapple_one 的物理机上运行, 使用[MCJPG](https://mcjpg.org/)的内网穿透
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-Irure cillum aute sunt cillum mollit sint consequat. Sint esse elit sunt laborum. Duis ipsum ad minim nostrud id eiusmod amet ullamco reprehenderit mollit ea laboris magna. Ex eiusmod anim Lorem elit in proident deserunt ut non do ullamco ut do veniam. Do non ipsum amet id adipisicing adipisicing esse fugiat velit esse ipsum. Laboris cillum mollit incididunt reprehenderit. Deserunt nostrud veniam laborum id anim. Nulla sit adipisicing labore ullamco id veniam elit voluptate. Aute cillum do fugiat officia. Sit aute eu officia cupidatat adipisicing tempor amet quis laboris ipsum labore. Labore adipisicing fugiat voluptate nulla mollit est sunt qui. Ullamco cupidatat Lorem officia ea quis proident tempor ipsum quis ullamco tempor aliqua cupidatat. Anim sunt duis nulla in cupidatat nostrud incididunt. Ea aliqua adipisicing exercitation sunt occaecat anim magna adipisicing aliqua ipsum. Aute quis ex voluptate sit. Dolor esse laboris enim irure cillum sint exercitation eiusmod commodo irure. Officia enim ut ut culpa. Nisi irure culpa excepteur esse tempor Lorem qui tempor labore dolore quis ipsum velit. Eu irure tempor esse aute velit ut laborum magna irure in ullamco laborum laboris et.
+>
+=== "内服"
+    邀请制(仅内服成员可邀请)
 
-Veniam veniam minim consequat duis do veniam ullamco ea id sunt consectetur voluptate. Labore exercitation pariatur sit incididunt eu nulla nulla esse exercitation aliqua consequat cillum. Id proident consequat commodo id sit ullamco occaecat velit magna elit quis. Et duis occaecat magna duis dolor qui mollit ipsum amet cupidatat do duis sint. Est ad cillum officia eiusmod Lorem incididunt aliquip aliqua dolore consequat sunt exercitation. Pariatur nulla dolore aute aute non deserunt officia occaecat tempor laboris. Aute esse veniam veniam commodo nisi proident sint sunt. Ea officia anim et sit consequat sit eu laborum voluptate ad consequat. Aliquip ea voluptate velit aliquip dolor aute sit culpa minim elit mollit cupidatat. Eiusmod velit officia quis velit ea laboris voluptate nostrud irure velit nisi sunt eiusmod mollit. Tempor ut cillum in eu nisi ex fugiat aute cupidatat laborum do id. Ipsum do commodo quis laboris proident elit dolore sint culpa esse culpa quis est. Aliqua et commodo consequat do reprehenderit enim enim voluptate. In id sint deserunt nostrud magna consequat proident nostrud ea. Dolore magna adipisicing fugiat tempor enim adipisicing nostrud excepteur tempor et ipsum laborum. Nisi quis mollit enim aliqua officia enim duis voluptate do qui est. Do dolore irure eiusmod dolor qui qui ipsum id officia anim. Quis officia consectetur do mollit proident et esse sint deserunt. Ipsum et elit reprehenderit ipsum deserunt. Nisi aliqua anim laborum reprehenderit ipsum non. Proident aute nulla laboris irure anim sint consequat veniam adipisicing ex cupidatat id aute exercitation. Tempor adipisicing deserunt consectetur mollit nulla eiusmod consectetur incididunt ad ullamco sit cupidatat. Irure officia laboris labore nostrud id aliqua adipisicing deserunt id reprehenderit. Elit velit reprehenderit reprehenderit exercitation cillum adipisicing magna. Officia eiusmod veniam elit sunt. Proident sunt dolor commodo fugiat non in. Enim occaecat ad dolor culpa in deserunt nostrud anim culpa sit proident amet id. Exercitation pariatur dolore aliquip laboris laborum nostrud aute. Do dolor ut adipisicing sunt in duis voluptate nostrud officia aliquip ut. Veniam non exercitation esse officia esse sunt magna duis ut exercitation. Magna cupidatat magna labore nulla. Aliquip incididunt aliqua officia amet minim ipsum consequat et incididunt incididunt dolore. Enim sit anim laboris quis et do enim do non voluptate quis. Tempor nostrud laboris cupidatat voluptate ea mollit esse aute sint. Dolore anim est est esse excepteur eiusmod ullamco amet reprehenderit. Do irure elit esse minim nostrud. Veniam amet nisi occaecat do cillum. Esse elit non amet exercitation nostrud dolore in pariatur. Minim ex excepteur mollit ullamco culpa. Magna mollit sunt commodo sint duis irure aute velit. Lorem sunt do fugiat veniam non laboris ullamco irure pariatur officia ullamco sit eiusmod amet. Magna labore adipisicing incididunt nostrud pariatur magna eu cillum non amet. Qui cillum est veniam qui proident in voluptate fugiat velit nisi ea duis. Aute consequat commodo aute mollit. Velit tempor nisi voluptate ullamco anim. Qui adipisicing esse elit est eiusmod velit exercitation minim aute irure duis sit. Ut veniam consectetur excepteur ea sint nulla eiusmod occaecat exercitation in aliqua. Non dolor est do voluptate elit qui laborum aliqua dolor deserunt voluptate duis laboris Lorem. Eu ullamco qui qui cupidatat cillum ea quis laborum. Eiusmod aliquip consectetur ex fugiat est adipisicing qui.
+    服务端为 **[Fabric](https://fabricmc.net/) 1.21.4** 支持全部生电特性
 
-Aliquip non incididunt aliquip adipisicing. Pariatur nisi elit sint enim nostrud nisi ipsum in. Aute quis eu Lorem quis amet in ullamco eiusmod. Dolore culpa qui in labore nisi veniam laborum est adipisicing exercitation quis aute dolore. Mollit pariatur veniam sunt ipsum. Non deserunt officia reprehenderit sunt mollit sit reprehenderit velit dolore voluptate sint incididunt velit. Elit eiusmod ea commodo eu. Minim laboris minim laborum nostrud laborum. Nisi consectetur cupidatat occaecat excepteur. Fugiat proident duis voluptate dolore nostrud officia ex ipsum pariatur dolor sint. Fugiat non reprehenderit officia consequat enim ipsum adipisicing pariatur Lorem. Minim eu magna laborum cupidatat excepteur. Ullamco aliquip adipisicing eiusmod fugiat voluptate elit officia. In magna ipsum ad ut deserunt elit consequat sunt nulla. Id labore officia cillum eu esse voluptate est sint in veniam consectetur. Minim nulla officia dolore pariatur in est consequat nulla velit ut. Deserunt aute ad nulla laboris amet. Cillum ullamco cillum laborum ullamco est aute eu irure incididunt fugiat consectetur. Quis ullamco ea enim et commodo. Nisi ut nostrud consectetur fugiat et esse dolore nisi velit eu et dolore. Excepteur Lorem nostrud eu occaecat magna. Aute proident laboris do est sit dolore minim velit. Excepteur laborum quis ea mollit ullamco id aliqua dolore culpa. Ipsum consectetur excepteur dolor adipisicing sit eiusmod anim incididunt laborum occaecat elit ullamco non aute. Ipsum enim ipsum ut et dolor. Mollit adipisicing do qui voluptate laborum esse exercitation dolor aliqua culpa id mollit nisi.
+    内分**生存服**, **创造服**和**镜像服**
+=== "外服"
+    对外开放加入
 
-Magna occaecat tempor occaecat magna incididunt sunt nulla incididunt aliquip reprehenderit sint velit et. Nostrud est ut duis excepteur qui veniam labore consectetur culpa consequat voluptate. Esse laboris quis eu sit dolore excepteur non veniam eu in enim amet do. Nisi amet laborum nostrud tempor. Mollit adipisicing culpa labore commodo incididunt consequat ex nulla aliquip ipsum ea occaecat non. Enim magna voluptate sint qui do fugiat enim excepteur reprehenderit. Voluptate irure et occaecat laborum excepteur veniam aliqua consectetur anim quis magna. Aliqua aliqua fugiat incididunt officia id consequat in ex sint anim reprehenderit adipisicing minim ad. Officia quis id eu Lorem esse aute quis veniam excepteur commodo tempor dolor do. Officia velit occaecat cillum occaecat magna reprehenderit reprehenderit excepteur occaecat exercitation proident laboris excepteur. Et elit Lorem aute proident aute veniam nisi. Magna nisi elit ad cillum.
+    服务端为 **[Leaves](https://leavesmc.org/) 1.21.4 构建#36**
+
+    支持**除更新抑制和其余部分<Tooltip tip="触及底层代码漏洞的特性, 无法100%还原">高阶特性</Tooltip>外**大部分生电特性
+
+    可以理解为**生存&生电混合**
+
+    拥有[基本插件]("TPA, 家, 钓鱼, 领地, 组队, 好友等")
+
+| 项目 | 信息                                                                                         |
+| :--- | :------------------------------------------------------------------------------------------- |
+| CPU  | [Intel® Core™ i5 processor 14600K](https://www.intel.cn/content/www/cn/zh/products/sku/236799/intel-core-i5-processor-14600k-24m-cache-up-to-5-30-ghz/specifications.html "最大睿频频率 5.3 GHz, 6P 8E 14C20T") |
+| 内存 | DDR4 32G\*2 3200MHz                                                                          |
+| 硬盘 | [Intel® DC P4510 1 DWPD](https://www.intel.cn/content/www/cn/zh/architecture-and-technology/cloud-inspired-storage-optimized-p4510-brief.html "	≈ 1825 TBW")                                                                       |
+| 网络 | 电信家宽<br />IPv6 DDNS<br />IPv4 自建穿透 40Mbps                                                          |
+
+/// caption
+物理机硬件
+///
+
+### 赞助机制
+
+[赞助](sponsors.md)可以让服务器走的更远, 是我们坚持下去的最大动力
+
+对于赞助金额, **力所能及即可**
+
+赞助不会获得游戏内物品
+
+*比如一组下界合金块, 飞行权限等*
+
+但您可以获得称号等不会影响公平性的装饰, 还可以加入服务器股东群, 进入[赞助者名单](sponsors.md)
+
+### 官方人员
+
+!!! warning "谨防诈骗"
+
+    如有他人自称是官方人员, 请无视并向官方人员汇报
+=== "内服"
+    | 职位               | ID             |
+    | :----------------- | :------------- |
+    | 服主(各种名义上的) | `Redapple_one` |
+=== "外服"
+    | 职位               | ID             |
+    | :----------------- | :------------- |
+    | 服主(各种名义上的) | `Redapple_one` |
+    | 其余待定| |
