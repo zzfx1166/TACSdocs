@@ -33,7 +33,7 @@ nav:
       - 内服文档: internal/index.md
       - 常用功能: internal/features.md
   - 实用链接: utilities.md
-  - 假人命名标准: fakeplayer.md
+  - 假人命名规范: fakeplayer.md
   - 友情链接: friendship_link.md
 plugins:
   - search
