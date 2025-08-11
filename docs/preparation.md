@@ -47,7 +47,7 @@
 === "外服"
     <div class="grid cards" markdown>
 
-    -   :material-minecraft:{ .md .middle } __[正版登录](https://www.minecraft.net/)__
+    -   :material-minecraft:{ .lg .middle } __[正版登录](https://www.minecraft.net/)__
 
         ---
         非常简单, 使用正版账号进入服务器即可.
