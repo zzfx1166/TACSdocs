@@ -14,7 +14,11 @@
 === "外服"
     对外开放加入
 
-    服务端为 **[Leaves](https://leavesmc.org/) 1.21.4 构建#36**
+    大厅为 **[Leaf](https://www.leafmc.one/) 1.21.8 构建#61**
+
+    容灾大厅为 **[NanoLimbo](https://github.com/BoomEaro/NanoLimbo) (Fork of BoomEaro) 1.7~1.21.8 版本1.9.7**
+
+    服务端为 **[Leaves](https://leavesmc.org/) 1.21.8 构建#98**
 
     支持**除更新抑制和其余部分<Tooltip tip="触及底层代码漏洞的特性, 无法100%还原">高阶特性</Tooltip>外**大部分生电特性
 

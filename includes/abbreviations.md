@@ -12,3 +12,5 @@
 *[星雨API]: 一个免费快速稳定的API接口网站
 *[Fabric]: 原版向模组端
 *[Leaves]: Paper的下游, 生电友好的插件端
+*[Leaf]: Paper的下游, 注重性能的插件端
+*[NanoLimbo]: 极致轻量化的虚空大厅服务端
