@@ -1,3 +1,6 @@
+!!! danger "使用无线互联网连接造成的网络问题概不处理!!!"
+    你身边的很多东西都会影响无线连接的稳定性  
+    想获得最好的稳定性请使用可靠的有线连接
 ## 如何调整大厅音乐音量?
 ![音量调节亮](https://img.fastmirror.net/s/2025/08/12/689b3e2883b8a.png#only-light)
 ![音量调节暗](https://img.fastmirror.net/s/2025/08/12/689b3e2916708.png#only-dark)

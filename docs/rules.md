@@ -49,7 +49,7 @@
 
 ## 违反公序良俗者
 
-[公序良俗的百度百科](https://baike.baidu.com/item/%E5%85%AC%E5%BA%8F%E8%89%AF%E4%BF%97)
+[百度百科](https://baike.baidu.com/item/%E5%85%AC%E5%BA%8F%E8%89%AF%E4%BF%97)
 
 ## 处罚
 基本处罚有四类:

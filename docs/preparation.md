@@ -1,10 +1,7 @@
-!!! tips ""
+!!! warning
     外服服务器原生版本为**1.21.4**, 外服服务器原生版本为**1.21.8**, 均支持1.21.x客户端进入服务器
 
-    但不使用服务端原生版本的客户端进入服务器的玩家, 不会获得技术支持
-
-!!! warning
-
+    {==不使用服务端原生版本的客户端进入服务器的玩家, 不会获得技术支持==}
 ## 逐步教程
 
 ### 1. 下载整合包/自配整合包
@@ -12,32 +9,36 @@
 
 -   :material-download:{ .md .middle } __下载整合包__
 
-    这里推荐[__XPlus 基础整合__](https://www.mcmod.cn/modpack/467.html),  
-    不会出错的选择
+    推荐[__XPlus 基础整合__](https://www.mcmod.cn/modpack/467.html)  
+    或者[__Arcomua Modpack__](https://www.mcmod.cn/modpack/606.html)  
 
 -   :material-wrench:{ .md .middle } __自配整合包__
 
-    建议使用1.21.8 Fabric作为基础 合理搭配整合包
+    建议使用1.21.8 Fabric作为基础  
+    合理搭配整合包
 
 </div>
-> 外服装有AllMusic点歌插件    
-> {==你需要装有对应的[客户端mod](https://www.mcmod.cn/class/14959.html)才能听歌==}
 
 ### 2. 安装整合包
 参见[这份教程](https://www.bilibili.com/opus/806747033441402937)或自行安装
 
-### 3. 登录方式
+### 3. 可选mod
+为了优化带宽占用, 服务器设置的视距偏小
+
+你可以通过安装[Bobby](https://www.mcmod.cn/class/5291.html)来缓存服务器区块, 获得更大视距
+
+### 4. 登录方式
 === "内服"
     <div class="grid cards" markdown>
 
     -   :material-minecraft:{ .lg .middle } __[正版登录](https://www.minecraft.net/)__
 
         ---
-        非常简单, 使用正版账号进入服务器即可.
+        非常简单, 使用正版账号进入服务器即可
 
-        
 
-    -   :material-link:{ .md .middle } __[LittleSkin皮肤站登录](https://manual.littlesk.in/newbee/)__
+
+    -   :material-link:{ .lg .middle } __[LittleSkin皮肤站登录](https://manual.littlesk.in/newbee/)__
 
         ---
         注册好账号后  
@@ -72,10 +73,7 @@
 /// caption
 各登录方式优缺点及适用范围
 ///
-### 4. 进入服务器
-这是最关键的一步(对于新手)
-步骤如下:
-
+### 5. 进入服务器
 1. 在群公告获取最新的服务器IP
 2. 打开"多人游戏"页面
 3. 点击"添加服务器"
@@ -96,7 +94,7 @@
     |IPv6一栏有内容|**选择IPv6线路**|
     |都有内容|**选择IPv6线路**|
     |都没有内容|网站和你有一个出Bug了|
-### 5. 排查故障
+### 6. 排查故障
 如果很不幸, 您的客户端发生了故障, 请移步[常见问题解答](FAQs.md)
 
 
