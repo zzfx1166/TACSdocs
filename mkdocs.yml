@@ -18,6 +18,9 @@ extra:
     - icon: simple/github
       link: https://www.youtube.com/@Redapple_one
       name: Redapple_one的YouTube账号
+    - icon: simple/maildotru
+      link: mailto:3134641406@qq.com
+      name: 给Redapple_one发邮件
 nav:
   - 开篇: 
       - 新手必看:
@@ -28,9 +31,11 @@ nav:
         - 赞助: sponsors.md
         - FAQs: FAQs.md
   - 外服:
-      - 外服文档: external/index.md
+      - 服务端更改: external/changes.md
+      - 新增功能/玩法: external/features.md
+      - 服规: external/rules.md
+      - 已知Bugs: external/known_bugs.md
   - 内服:
-      - 内服文档: internal/index.md
       - 常用功能: internal/features.md
   - 实用链接: utilities.md
   - 假人命名规范: fakeplayer.md

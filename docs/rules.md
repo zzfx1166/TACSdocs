@@ -1,6 +1,7 @@
-
-# 不正常游戏行为
-
+!!! danger "联合封禁"
+    封禁/禁言惩罚会同步到TACS所有服务器
+## 建议阅读
+[中文 Minecraft Wiki 教程:不该做的事](https://zh.minecraft.wiki/w/Tutorial:%E4%B8%8D%E8%AF%A5%E5%81%9A%E7%9A%84%E4%BA%8B)
 ## 开挂者/黑客/攻击者
 
 在TACS中, 对开挂者/黑客的定义如下

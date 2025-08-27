@@ -12,19 +12,19 @@
 
     内分**生存服**, **创造服**和**镜像服**
 === "外服"
-    对外开放加入
+    对外开放加入 群号: ``807442455``
 
-    大厅为 **[Leaf](https://www.leafmc.one/) 1.21.8 构建#61**
+    大厅为 **[Leaf](https://www.leafmc.one/) 1.21.8 构建#95**
 
     容灾大厅为 **[NanoLimbo](https://github.com/BoomEaro/NanoLimbo) (Fork of BoomEaro) 1.7~1.21.8 版本1.9.7**
 
-    小游戏为 **[Leaf](https://www.leafmc.one/) 1.21.8 构建#61**
+    小游戏为 **[Leaf](https://www.leafmc.one/) 1.21.8 构建#95**
 
-    无尽跑酷为 **[Leaf](https://www.leafmc.one/) 1.21.4 构建#518**
+    无尽跑酷为 **[Leaf](https://www.leafmc.one/) 1.21.4 构建#519**
 
-    生存服为 **[Leaves](https://leavesmc.org/) 1.21.8 构建#98**
+    生存服为 **[Leaves](https://leavesmc.org/) 1.21.8 构建#126**
 
-    支持**除更新抑制和其余部分<Tooltip tip="触及底层代码漏洞的特性, 无法100%还原">高阶特性</Tooltip>外**大部分生电特性
+    支持大部分生电特性(除无头活塞和生物科技外)
 
     可以理解为**生存&生电混合**
 
@@ -62,6 +62,9 @@
     | 职位               | ID             |
     | :----------------- | :------------- |
     | 服主(各种名义上的) | `Redapple_one` |
+    | 管理 | `mashirokaka` |
+    | 管理 | `TianzeAlche` |
+    | 管理 | `mitiska233` |
 === "外服"
     | 职位               | ID             |
     | :----------------- | :------------- |

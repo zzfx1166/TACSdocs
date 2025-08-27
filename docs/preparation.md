@@ -1,10 +1,4 @@
-!!! warning
-    外服服务器原生版本为**1.21.4**, 外服服务器原生版本为**1.21.8**, 均支持1.21.x客户端进入服务器
-
-    {==不使用服务端原生版本的客户端进入服务器的玩家, 不会获得技术支持==}
-## 逐步教程
-
-### 1. 下载整合包/自配整合包
+## 1. 下载整合包/自配整合包
 <div class="grid cards" markdown>
 
 -   :material-download:{ .md .middle } __下载整合包__
@@ -19,15 +13,41 @@
 
 </div>
 
-### 2. 安装整合包
+## 2. 安装整合包
 参见[这份教程](https://www.bilibili.com/opus/806747033441402937)或自行安装
 
-### 3. 可选mod
+## 3. 可选/提升游戏体验的Mod
+### [Bobby 服务器区块缓存](https://www.mcmod.cn/class/5291.html)
 为了优化带宽占用, 服务器设置的视距偏小
 
 你可以通过安装[Bobby](https://www.mcmod.cn/class/5291.html)来缓存服务器区块, 获得更大视距
 
-### 4. 登录方式
+### [Distant Horzion 遥远的地平线 (仅外服)](https://www.mcmod.cn/class/5009.html)
+我们在TACS外服配置了相关的插件/Mod, 客户端只需安装此Mod即可享受到超高视野带来的画面
+
+详细信息及支持范围请查看[外服相关页面]
+!!! tips "需要手动配置"
+    关闭原版云
+    
+    [点击下载配置汉化材质包](https://klpbbs.com/thread-154137-1-1.html)
+
+### [caramelChat 输入法冲突解决](https://www.mcmod.cn/class/17135.html)
+高版本的输入法冲突解决模组, 可以避免你```aaaaaaaaaaaadssadwwd```
+
+### [Particle Rain 粒子雨](https://www.mcmod.cn/class/4897.html)
+让原版的雨更好看
+
+![预览图](https://img.fastmirror.net/s/2025/08/27/68aefdaf7abd1.png)
+
+### [idwtialsimmoedm 附魔简介](https://www.mcmod.cn/class/6555.html)
+安装后可以显示服务器更多附魔的附魔简介, 不用经常查wiki
+!!! tips "需要手动配置"
+    ![手动配置](https://img.fastmirror.net/s/2025/08/27/68aefeed74831.png)
+
+### [Paginated Advancements 分页进度](https://www.mcmod.cn/class/8062.html)
+不用对着原版小的可怜的成就屏幕发呆了
+
+## 4. 登录方式
 === "内服"
     <div class="grid cards" markdown>
 
@@ -73,7 +93,7 @@
 /// caption
 各登录方式优缺点及适用范围
 ///
-### 5. 进入服务器
+## 5. 进入服务器
 1. 在群公告获取最新的服务器IP
 2. 打开"多人游戏"页面
 3. 点击"添加服务器"
@@ -94,9 +114,11 @@
     |IPv6一栏有内容|**选择IPv6线路**|
     |都有内容|**选择IPv6线路**|
     |都没有内容|网站和你有一个出Bug了|
-### 6. 排查故障
+## 6. 排查故障
 如果很不幸, 您的客户端发生了故障, 请移步[常见问题解答](FAQs.md)
 
+## 更多信息
+如果你还想了解更多信息, 请查看下一篇文档.
 
 ## 大功告成!
 如果你已经等不及了:
@@ -108,6 +130,3 @@
 -   [__外服文档__](external/index.md)
     外服使用手册
 </div>
-
-## 更多信息
-如果你还想了解更多信息, 请查看下一篇文档.
