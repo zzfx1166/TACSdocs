@@ -1,3 +1,5 @@
+> 点击图片可以放大哦
+
 ## 1. 下载整合包/自配整合包
 <div class="grid cards" markdown>
 
@@ -6,10 +8,10 @@
     推荐[__XPlus 基础整合__](https://www.mcmod.cn/modpack/467.html)  
     或者[__Arcomua Modpack__](https://www.mcmod.cn/modpack/606.html)  
 
--   :material-wrench:{ .md .middle } __自配整合包__
-
-    建议使用1.21.8 Fabric作为基础  
-    合理搭配整合包
+>   :material-wrench:{ .md .middle } __自配整合包__
+>
+>   建议使用1.21.8 Fabric作为基础  
+>   合理搭配整合包
 
 </div>
 
@@ -17,36 +19,38 @@
 参见[这份教程](https://www.bilibili.com/opus/806747033441402937)或自行安装
 
 ## 3. 可选/提升游戏体验的Mod
-### [Bobby 服务器区块缓存](https://www.mcmod.cn/class/5291.html)
-为了优化带宽占用, 服务器设置的视距偏小
+<div class="grid cards" markdown>
 
-你可以通过安装[Bobby](https://www.mcmod.cn/class/5291.html)来缓存服务器区块, 获得更大视距
+-   ### [Bobby 服务器区块缓存](https://www.mcmod.cn/class/5291.html)
+    为了优化带宽占用, 服务器设置的视距偏小
 
-### [Distant Horzion 遥远的地平线 (仅外服)](https://www.mcmod.cn/class/5009.html)
-我们在TACS外服配置了相关的插件/Mod, 客户端只需安装此Mod即可享受到超高视野带来的画面
+    你可以通过安装[Bobby](https://www.mcmod.cn/class/5291.html)来缓存服务器区块, 获得更大视距
 
-详细信息及支持范围请查看[外服相关页面]
-!!! tips "需要手动配置"
-    关闭原版云
-    
-    [点击下载配置汉化材质包](https://klpbbs.com/thread-154137-1-1.html)
 
-### [caramelChat 输入法冲突解决](https://www.mcmod.cn/class/17135.html)
-高版本的输入法冲突解决模组, 可以避免你```aaaaaaaaaaaadssadwwd```
+-   ### [Distant Horzion 遥远的地平线 (仅外服)](https://www.mcmod.cn/class/5009.html)
+    我们在TACS外服配置了相关的插件/Mod, 客户端只需安装此Mod即可享受到超高视野带来的画面
 
-### [Particle Rain 粒子雨](https://www.mcmod.cn/class/4897.html)
-让原版的雨更好看
+    详细信息及支持范围请查看[外服相关页面]
+    !!! tips "需要手动配置"  
+        [点击下载配置汉化材质包](https://klpbbs.com/thread-154137-1-1.html)
 
-![预览图](https://img.fastmirror.net/s/2025/08/27/68aefdaf7abd1.png)
+-   ### [caramelChat 输入法冲突解决](https://www.mcmod.cn/class/17135.html)
+    高版本的输入法冲突解决模组, 可以避免你```aaaaaaaaaaaadssadwwd```
 
-### [idwtialsimmoedm 附魔简介](https://www.mcmod.cn/class/6555.html)
-安装后可以显示服务器更多附魔的附魔简介, 不用经常查wiki
-!!! tips "需要手动配置"
-    ![手动配置](https://img.fastmirror.net/s/2025/08/27/68aefeed74831.png)
+-   ### [Particle Rain 粒子雨](https://www.mcmod.cn/class/4897.html)
+    让原版的雨更好看
 
-### [Paginated Advancements 分页进度](https://www.mcmod.cn/class/8062.html)
-不用对着原版小的可怜的成就屏幕发呆了
+    ![预览图](https://img.fastmirror.net/s/2025/08/27/68aefdaf7abd1.png)
 
+-   ### [idwtialsimmoedm 附魔简介](https://www.mcmod.cn/class/6555.html)
+    安装后可以显示服务器更多附魔的附魔简介, 不用经常查wiki
+    !!! tips "需要手动配置"
+        ![手动配置](https://img.fastmirror.net/s/2025/08/27/68aefeed74831.png)
+
+-   ### [Paginated Advancements 分页进度](https://www.mcmod.cn/class/8062.html)
+    不用对着原版小的可怜的成就屏幕发呆了
+
+</div>
 ## 4. 登录方式
 === "内服"
     <div class="grid cards" markdown>
@@ -106,7 +110,7 @@
     检查您的设备是否同时支持 IPv4 和 IPv6, 以及是否正确配置了 IPv6 地址  
     超级简单的办法: 访问[https://ipw.cn/](https://ipw.cn/)  
 
-    #### 选择线路
+    ### 选择线路
 
     |测试结果|线路选择|
     |--:|:--|
@@ -114,6 +118,13 @@
     |IPv6一栏有内容|**选择IPv6线路**|
     |都有内容|**选择IPv6线路**|
     |都没有内容|网站和你有一个出Bug了|
+
+    ### Why IPv6
+     
+    IPv6可以直连服务器, 获得最低的延迟
+
+    IPv4需要走内网穿透, 延迟可能会不理想
+
 ## 6. 排查故障
 如果很不幸, 您的客户端发生了故障, 请移步[常见问题解答](FAQs.md)
 

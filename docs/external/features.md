@@ -66,6 +66,11 @@
 *   Syncmatica
 *   Do a Barrel Roll
 
+!!! tips "Distant Horzion 遥远的地平线"
+    Distant Horzion 只在世界预加载范围内提供服务端支持
+
+    超出预加载范围只能由客户端渲染
+
 ## 数据包
 服务器数据包列表：
 

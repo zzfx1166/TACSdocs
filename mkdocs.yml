@@ -49,6 +49,7 @@ plugins:
   - git-committers:
       repository: TAC-Server/docs
       branch: main
+  - glightbox
 markdown_extensions:
   - abbr
   - admonition
