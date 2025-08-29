@@ -3,7 +3,7 @@
 ## 世界生成与环境
 
 ### 地狱顶层高度提升
-服务器通过 [Amplified Nether]https://www.mcmod.cn/class/5205.html） 将下界高度提升到256格。
+服务器通过 [Amplified Nether](https://www.mcmod.cn/class/5205.html） 将下界高度提升到256格。
 
 因此，如果你试图穿越上层基岩层，等待你的将是无尽的虚无和**虚空伤害**。
 
