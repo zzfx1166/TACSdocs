@@ -33,6 +33,7 @@ nav:
   - 外服:
       - 服务端更改: external/changes.md
       - 新增功能/玩法: external/features.md
+      - 相关wiki: external/external_wikis.md
       - 服规: external/rules.md
       - 已知Bugs: external/known_bugs.md
   - 内服:
