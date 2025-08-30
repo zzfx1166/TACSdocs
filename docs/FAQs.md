@@ -10,6 +10,12 @@
 ![Bobby](https://img.fastmirror.net/s/2025/08/26/68adc1ec1e81e.png)
 
 改为"关"
+## 我是正版, 但是还是不能免密登录
+!!! command "premium"
+
+## 怎么退出私聊频道
+!!! command "ac"
+
 ## 没有找到?/问题依然存在
 百度/Bing/Google一下?
 
