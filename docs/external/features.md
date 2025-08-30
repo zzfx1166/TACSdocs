@@ -80,6 +80,58 @@ _绝对不是我不想重新写一份中文教程_
 
     超出预加载范围只能由客户端渲染
 
+## 附魔
+
+### 最大等级提升
+
+| Enchantment |  New Max Level | Detail |
+| --- | --- | --- |
+| **Aqua Affinity** | 5 | Allows you to breathe longer underwater |
+| **Bane of Arthropods** | 10 | Increases damage against arthropods |
+| **Blast Protection** | 7 | Reduces damage from explosions |
+| **Breach** | 5 | Reduce armor effectiveness |
+| **Channeling** | 5 | Summons lightning at the target |
+| **Density** | 5 | Increases the smash attack per block with mace |
+| **Depth Strider** | 3 | Increases underwater movement speed |
+| **Efficiency** | 10 | Increases mining speed |
+| **Feather Falling** | 10 | Reduces fall damage |
+| **Fire Aspect** | 4 | The time of ignite is increased |
+| **Fire Protection** | 7 | Reduces damage from fire |
+| **Flame** | 5 | The time of ignite is increased |
+| **Fortune** | 5 | Increases block drops |
+| **Frost Walker** | 8 | Freezes water |
+| **Impaling** | 10 | Increases damage against sea creatures |
+| **Knockback** | 10 | Increases knockback |
+| **Looting** | 5 | Increases mob drops |
+| **Loyalty** | 8 | Increases trident return speed |
+| **Luck of the Sea** | 5 | Increases fishing luck |
+| **Lure** | 5 | Increases fishing speed |
+| **Mending** | 5 | The repairs is increased for each level |
+| **Multishot** | 3 | Shoot more arrows at once |
+| **Piercing** | 10 | Arrows can pierce through multiple entities |
+| **Power** | 7 | Increases bow damage |
+| **Projectile Protection** | 7 | Reduces damage from projectiles |
+| **Protection** | 5 | Reduces all damage |
+| **Punch** | 10 | Increases arrow knockback |
+| **Quick Charge** | 5 | Reduces crossbow reload time |
+| **Respiration** | 8 | Increases the number oxygen bubbles |
+| **Riptide** | 8 | Launches the player when thrown |
+| **Sharpness** | 7 | Increases melee damage |
+| **Smite** | 10 | Increases damage against undead |
+| **Soul Speed** | 7 | Increases movement speed on soul sand |
+| **Sweeping Edge** | 10 | Increases sweep attack damage |
+| **Swift Sneak** | 7 | Increases sneaking speed |
+| **Thorns** | 4 | Damages attackers |
+| **Unbreaking** | 10 | Increases item durability |
+| **Wind Burst** | 5 | Increases the wind charge knockback |
+
+/// caption
+提升后的最大等级（未翻译）
+///
+
+### 新增附魔
+详见[NeoEnchant+ Wiki](https://hardels-organization.gitbook.io/voxel)
+
 ## 数据包
 服务器数据包列表：
 
