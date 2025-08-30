@@ -2,6 +2,15 @@
     封禁/禁言惩罚会同步到TACS所有服务器
 ## 建议阅读
 [中文 Minecraft Wiki 教程:不该做的事](https://zh.minecraft.wiki/w/Tutorial:%E4%B8%8D%E8%AF%A5%E5%81%9A%E7%9A%84%E4%BA%8B)
+
+## 非正常客户端
+{==
+
+**服务器禁止一切Velocity套服务器, Geyser Standalone套服务器, ViaProxy套服务器, PCRC套服务器, 各种代理套服务器等行为**
+
+**发现即BanIP段及游戏内Ban**
+
+==}
 ## 开挂者/黑客/攻击者
 
 在TACS中, 对开挂者/黑客的定义如下
