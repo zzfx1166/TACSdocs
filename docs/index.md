@@ -22,7 +22,7 @@
 
     无尽跑酷为 **[Leaf](https://www.leafmc.one/) 1.21.4 构建#519**
 
-    生存服为 **[Leaves](https://leavesmc.org/) 1.21.8 构建#126**
+    生存服为 **[Leaf](https://www.leafmc.one/) 1.21.8 构建#95**
 
     支持大部分生电特性(除无头活塞和生物科技外)
 
