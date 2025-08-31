@@ -130,7 +130,7 @@ _绝对不是我不想重新写一份中文教程_
 ///
 
 ### 新增附魔
-详见[NeoEnchant+ Wiki](https://hardels-organization.gitbook.io/voxel)
+详见[NeoEnchant+ Wiki（自建）](../neoenchants/enchantment/)
 
 ## 数据包
 服务器数据包列表：

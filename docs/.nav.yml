@@ -1,0 +1,20 @@
+nav:
+  - 开篇: 
+      - 开始新篇章: index.md
+      - 准备工作: guides/preparation.md
+      - 服规: rules.md
+      - 常见问题解答: guides/FAQs.md
+  - 外服:
+      - 服务端更改: external/changes.md
+      - 新增功能/玩法: external/features.md
+      - 里程碑: external/milestones.md
+      - 相关Wiki: external/external_wikis.md
+      - 服规: external/rules.md
+      - 已知Bugs: external/known_bugs.md
+      - 更多附魔: external/neoenchants
+  - 内服:
+      - 常用功能: internal/features.md
+  - 赞助: sponsors.md
+  - 实用链接: utilities.md
+  - 假人命名规范: fakeplayer.md
+  - 友情链接: friendship_link.md

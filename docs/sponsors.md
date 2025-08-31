@@ -1,3 +1,7 @@
+---
+hide:
+  - navigation
+---
 > 您的支持是我们坚持下去的最大动力
 ## Night_and_Light
 - 服务器早期所使用的 13600KF 的 VPS 云服务器

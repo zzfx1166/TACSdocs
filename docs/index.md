@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+comments: false
+---
 茶水晶服务器现有**内服**和**外服**两个互不相通的服务器,
 均在 Redapple_one 的物理机上运行, 使用[MCJPG](https://mcjpg.org/)的内网穿透
 
