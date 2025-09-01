@@ -58,7 +58,7 @@ Armors - Enchanting Table and Anvil
 
 This enchantment cannot be combined with the other enchantments on this list:
 
-[Oversize](/voxel/enchantment/legs-enchantment/oversize)
+[Oversize](/external/neoenchants/enchantment/legs-enchantment/oversize)
 
 * * *
 

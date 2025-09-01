@@ -59,7 +59,7 @@ Sword - Enchanting Table and Anvil
 
 This enchantment cannot be combined with the other enchantments on this list:
 
-[Pull](/voxel/enchantment/weapon-enchantment/pull)[Life Steal](/voxel/enchantment/weapon-enchantment/life-steal)[Fear](/voxel/enchantment/weapon-enchantment/fear)[Last Hope](/voxel/enchantment/weapon-enchantment/last-hope)[Critical](/voxel/enchantment/weapon-enchantment/critical)[Death Touch](/voxel/enchantment/weapon-enchantment/death-touch)
+[Pull](/external/neoenchants/enchantment/weapon-enchantment/pull)[Life Steal](/external/neoenchants/enchantment/weapon-enchantment/life-steal)[Fear](/external/neoenchants/enchantment/weapon-enchantment/fear)[Last Hope](/external/neoenchants/enchantment/weapon-enchantment/last-hope)[Critical](/external/neoenchants/enchantment/weapon-enchantment/critical)[Death Touch](/external/neoenchants/enchantment/weapon-enchantment/death-touch)
 
 * * *
 

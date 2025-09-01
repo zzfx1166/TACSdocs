@@ -54,7 +54,7 @@ Armors - Enchanting Table and Anvil
 
 This enchantment cannot be combined with the other enchantments on this list:
 
-[Venom Protection](/voxel/enchantment/armor-enchantment/venom-protection)[Fury](/voxel/enchantment/armor-enchantment/fury)
+[Venom Protection](/external/neoenchants/enchantment/armor-enchantment/venom-protection)[Fury](/external/neoenchants/enchantment/armor-enchantment/fury)
 
 * * *
 

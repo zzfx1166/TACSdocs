@@ -63,7 +63,7 @@ Armors - Enchanting Table and Anvil
 This enchantment cannot be combined with the other enchantments on this list:
 
 *   Include from vanilla : **"Frost Walker"**
-[Step Assist](/voxel/enchantment/feet-enchantment/step-assist)
+[Step Assist](/external/neoenchants/enchantment/feet-enchantment/step-assist)
 
 * * *
 

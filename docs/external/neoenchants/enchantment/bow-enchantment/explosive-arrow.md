@@ -57,7 +57,7 @@ This enchantment cannot be combined with the other enchantments on this list:
 
 *   Include from vanilla **"Quick Charge"**
 *   Include from NeoEnchant **"Rebound"** (Version 5.13.0 and more)
-[Breezing Arrow](/voxel/enchantment/bow-enchantment/breezing-arrow)[Storm Arrow](/voxel/enchantment/bow-enchantment/storm-arrow)[Eternal Frost](/voxel/enchantment/bow-enchantment/eternal-frost)[Echo Shot](/voxel/enchantment/bow-enchantment/echo-shot)
+[Breezing Arrow](/external/neoenchants/enchantment/bow-enchantment/breezing-arrow)[Storm Arrow](/external/neoenchants/enchantment/bow-enchantment/storm-arrow)[Eternal Frost](/external/neoenchants/enchantment/bow-enchantment/eternal-frost)[Echo Shot](/external/neoenchants/enchantment/bow-enchantment/echo-shot)
 
 * * *
 

@@ -53,7 +53,7 @@ Sword - Enchanting Table and Anvil
 
 This enchantment cannot be combined with the other enchantments on this list:
 
-[Runic Despair](/voxel/enchantment/weapon-enchantment/runic-despair)[Attack Speed](/voxel/enchantment/weapon-enchantment/attack-speed)[Dimensionnal Hit](/voxel/enchantment/weapon-enchantment/dimensionnal-hit)
+[Runic Despair](/external/neoenchants/enchantment/weapon-enchantment/runic-despair)[Attack Speed](/external/neoenchants/enchantment/weapon-enchantment/attack-speed)[Dimensionnal Hit](/external/neoenchants/enchantment/weapon-enchantment/dimensionnal-hit)
 
 * * *
 

@@ -58,7 +58,7 @@ Armors - Enchanting Table and Anvil
 
 This enchantment cannot be combined with the other enchantments on this list:
 
-[Dwarfed](/voxel/enchantment/legs-enchantment/dwarfed)
+[Dwarfed](/external/neoenchants/enchantment/legs-enchantment/dwarfed)
 
 * * *
 

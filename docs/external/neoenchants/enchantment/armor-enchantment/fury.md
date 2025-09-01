@@ -54,7 +54,7 @@ Armors - Enchanting Table and Anvil
 
 This enchantment cannot be combined with the other enchantments on this list:
 
-[Venom Protection](/voxel/enchantment/armor-enchantment/venom-protection)[Life+](/voxel/enchantment/armor-enchantment/life+)
+[Venom Protection](/external/neoenchants/enchantment/armor-enchantment/venom-protection)[Life+](/external/neoenchants/enchantment/armor-enchantment/life+)
 
 * * *
 

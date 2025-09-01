@@ -55,7 +55,7 @@ Sword - Enchanting Table and Anvil
 
 This enchantment cannot be combined with the other enchantments on this list:
 
-[Reach](/voxel/enchantment/weapon-enchantment/reach)[Attack Speed](/voxel/enchantment/weapon-enchantment/attack-speed)[Dimensionnal Hit](/voxel/enchantment/weapon-enchantment/dimensionnal-hit)
+[Reach](/external/neoenchants/enchantment/weapon-enchantment/reach)[Attack Speed](/external/neoenchants/enchantment/weapon-enchantment/attack-speed)[Dimensionnal Hit](/external/neoenchants/enchantment/weapon-enchantment/dimensionnal-hit)
 
 * * *
 

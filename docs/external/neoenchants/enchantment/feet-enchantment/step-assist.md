@@ -54,7 +54,7 @@ Armors - Enchanting Table and Anvil
 This enchantment cannot be combined with the other enchantments on this list:
 
 *   Include from vanilla : **"Frost Walker"**
-[Lava Walker](/voxel/enchantment/feet-enchantment/lava-walker)
+[Lava Walker](/external/neoenchants/enchantment/feet-enchantment/lava-walker)
 
 * * *
 

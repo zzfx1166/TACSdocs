@@ -57,7 +57,7 @@ Bow - Enchanting Table and Anvil
 This enchantment cannot be combined with the other enchantments on this list:
 
 *   Include from vanilla **"Quick Charge"**
-[Breezing Arrow](/voxel/enchantment/bow-enchantment/breezing-arrow)[Explosive Arrow](/voxel/enchantment/bow-enchantment/explosive-arrow)[Eternal Frost](/voxel/enchantment/bow-enchantment/eternal-frost)[Echo Shot](/voxel/enchantment/bow-enchantment/echo-shot)
+[Breezing Arrow](/external/neoenchants/enchantment/bow-enchantment/breezing-arrow)[Explosive Arrow](/external/neoenchants/enchantment/bow-enchantment/explosive-arrow)[Eternal Frost](/external/neoenchants/enchantment/bow-enchantment/eternal-frost)[Echo Shot](/external/neoenchants/enchantment/bow-enchantment/echo-shot)
 
 * * *
 

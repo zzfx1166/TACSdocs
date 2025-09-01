@@ -54,7 +54,7 @@ Armors - Enchanting Table and Anvil
 
 This enchantment cannot be combined with the other enchantments on this list:
 
-[Mining+](/voxel/enchantment/tools-enchantment/mining+)[Vein Miner](/voxel/enchantment/tools-enchantment/vein-miner)[Spawner Touch](/voxel/enchantment/tools-enchantment/spawner-touch)
+[Mining+](/external/neoenchants/enchantment/tools-enchantment/mining+)[Vein Miner](/external/neoenchants/enchantment/tools-enchantment/vein-miner)[Spawner Touch](/external/neoenchants/enchantment/tools-enchantment/spawner-touch)
 
 * * *
 
