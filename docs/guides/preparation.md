@@ -50,52 +50,26 @@
     不用对着原版小的可怜的成就屏幕发呆了
 
 </div>
+
 ## 4. 登录方式
-=== "内服"
-    <div class="grid cards" markdown>
+<div class="grid cards" markdown>
 
-    -   :material-minecraft:{ .lg .middle } __[正版登录](https://www.minecraft.net/)__
+-   :material-minecraft:{ .lg .middle } __[正版登录](https://www.minecraft.net/)__
 
-        ---
-        非常简单, 使用正版账号进入服务器即可
-
+    ---
+    非常简单, 使用正版账号进入服务器即可
 
 
-    -   :material-link:{ .lg .middle } __[LittleSkin皮肤站登录](https://manual.littlesk.in/newbee/)__
 
-        ---
-        注册好账号后  
-        你需要在启动器[将其设置为登录方式](https://manual.littlesk.in/yggdrasil/client)  
-        可自行搜索其他教程
+-   :material-link:{ .lg .middle } __[LittleSkin皮肤站登录](https://manual.littlesk.in/newbee/)__
 
-        __[:fontawesome-solid-arrow-right: 查看教程](https://manual.littlesk.in/newbee/)__
-    </div>
-=== "外服"
-    <div class="grid cards" markdown>
+    ---
+    没有离线账号的不二之选  
+    你需要在启动器[将其设置为登录方式](https://manual.littlesk.in/yggdrasil/client)  
 
-    -   :material-minecraft:{ .lg .middle } __[正版登录](https://www.minecraft.net/)__
+    __[:fontawesome-solid-arrow-right: 查看教程](https://manual.littlesk.in/newbee/)__
+</div>
 
-        ---
-        非常简单, 使用正版账号进入服务器即可.
-
-
-    -   __离线登录__
-
-        ---
-        对于无正版玩家, 请始终考虑[购入正版](https://zhuanlan.zhihu.com/p/393174208)  
-        这里就不多说了, 要注意的只有两点  
-        1. **记住自己的账号名!**  
-        2. **设置强密码!**
-    </div>
-
-|登录方式|优缺点|适用范围|
-|--:|--|--|
-|正版登录|无|**全部**|
-|LittleSkin皮肤站登录|可能会重名|**内服**|
-|离线登录|可能会重名, <u>安全性低</u>|**外服**|
-/// caption
-各登录方式优缺点及适用范围
-///
 ## 5. 进入服务器
 1. 在群公告获取最新的服务器IP
 2. 打开"多人游戏"页面
@@ -126,17 +100,3 @@
 
 ## 6. 排查故障
 如果很不幸, 您的客户端发生了故障, 请移步[常见问题解答](FAQs.md)
-
-## 更多信息
-如果你还想了解更多信息, 请查看下一篇文档.
-
-## 大功告成!
-如果你已经等不及了:
-<div class="grid cards" markdown>
-
--   [__内服文档__](internal/features.md)
-    你需要知道的一切都在这里
-
--   [__外服文档__](external/changes.md)
-    外服使用手册
-</div>

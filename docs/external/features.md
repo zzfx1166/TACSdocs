@@ -73,14 +73,8 @@ _绝对不是我不想重新写一份中文教程_
 *   Syncmatica
 *   Do a Barrel Roll
 
-!!! tips "Distant Horzion 遥远的地平线"
-    Distant Horzion 只在世界预加载范围内提供服务端支持
-
-    超出预加载范围只能由客户端渲染
-
 ## 附魔
-
-详见[NeoEnchant+ Wiki（自建）](../neoenchants/enchantment/)
+[NeoEnchant+ Wiki（自建）](../neoenchants/enchantment/){ .md-button }
 
 <!-- ### 最大等级提升
 
@@ -138,7 +132,6 @@ _绝对不是我不想重新写一份中文教程_
 *   [file/BlazeandCave's_Advancements_Pack_Amplified_Nether.zip (world)]
 *   [file/BlazeandCave's_Advancements_Pack_Nullscape.zip (world)]
 *   [file/BlazeandCave's_Advancements_Pack_Terralith.zip (world)]
-*   [file/Continents_1.21_v1.1.10.zip (world)]
 *   [file/Hearths_v1.0.4_f12-80.dp.zip (world)]
 *   [file/NeoEnchant-V5.12.1-for-1.21.6-to-1.21.8-fixed-TACS.zip (world)]
 *   [file/NeoEnchantAddon-Structure-V1.1.0-for-1.21.6.zip (world)]
