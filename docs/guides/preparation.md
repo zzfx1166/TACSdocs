@@ -30,7 +30,6 @@
 -   ### [Distant Horzion 遥远的地平线 (仅外服)](https://www.mcmod.cn/class/5009.html)
     我们在TACS外服配置了相关的插件/Mod, 客户端只需安装此Mod即可享受到超高视野带来的画面
 
-    详细信息及支持范围请查看[外服相关页面]
     !!! tips "需要手动配置"  
         [点击下载配置汉化材质包](https://klpbbs.com/thread-154137-1-1.html)
 
