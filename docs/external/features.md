@@ -1,8 +1,7 @@
 # 服务端功能与支持
 
-## 交通工具与传送
+## 乐魂加速
 
-### 乐魂加速
 骑上乐魂后，你会看到这样的充能条。
 ![乐魂加速进度条-满](https://img.fastmirror.net/s/2025/08/27/68af0ab68d49c.png)
 此时长按前进键，乐魂会开始加速，并消耗充能条。
@@ -19,7 +18,7 @@
 打开服务器菜单
 
 ### 大厅系统
-全服任何地方执行 **/hub** 或 **/lobby** 都可以返回大厅。
+**/hub** 或 **/lobby** 返回大厅。
 
 ### 组队系统
 !!! command "party"
@@ -149,7 +148,8 @@ _绝对不是我不想重新写一份中文教程_
 *   [file/terratonic-3.0.0-datapack.zip (world)]
 *   [file/v10qraftyfied_-_TERRALITH.zip (world)]
 
-如果有人想了解其中内容，可以自行搜索。
+欲了解其中内容，可以自行搜索。
+
 ## 合成表
 <div class="grid cards" markdown>
 
